@@ -25,7 +25,7 @@ Some legacy items (e.g., *Scanners and Cameras*) may require compatible hardware
 ## 📂 Folder Structure
 
 
-LegacyControlPanel/
+LegacyControlPanel```/
 ├── Shortcuts/           # Verified .lnk files
 ├── Icons/               # PNG previews of icon indices
 ├── Reference/           # CLSIDs, commands, and icon index maps
