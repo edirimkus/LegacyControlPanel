@@ -30,7 +30,7 @@ LegacyControlPanel/
 ├── Icons/               # PNG previews of icon indices
 ├── Reference/           # CLSIDs, commands, and icon index maps
 └── LICENSE              # MIT License
-```\
+\```
 
 ## 🛠️ Setup Instructions
 
