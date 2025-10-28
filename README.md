@@ -23,6 +23,7 @@ Some legacy items (e.g., *Scanners and Cameras*) may require compatible hardware
 ---
 
 ## 📂 Folder Structure
+
 \```
 LegacyControlPanel/
 ├── Shortcuts/           # Verified .lnk files
